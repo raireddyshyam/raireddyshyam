@@ -1,4 +1,4 @@
-![logo](https://github.com/raireddyshyam/raireddyshyam/blob/main/httpswww.google.comurlsa%3Di%26url%3Dhttps%253A%252F%252Fwww.pexels.com%252Fsearch%252Fcoding%252F%26psig%3DAOvVaw2vE0mw3bPwUwYEbUXLSEjB%26ust%3D1705978251190000%26source%3Dimages%26cd%3Dvfe%26ved%3D0CBMQjRxqFwoTCOCst7L-74MDFQAAAAAdAA.png)
+![logo]align="center"(https://github.com/raireddyshyam/raireddyshyam/blob/main/httpswww.google.comurlsa%3Di%26url%3Dhttps%253A%252F%252Fwww.pexels.com%252Fsearch%252Fcoding%252F%26psig%3DAOvVaw2vE0mw3bPwUwYEbUXLSEjB%26ust%3D1705978251190000%26source%3Dimages%26cd%3Dvfe%26ved%3D0CBMQjRxqFwoTCOCst7L-74MDFQAAAAAdAA.png)
 <h1 align="center">Hi 👋, I'm Raireddy Shyam Manohar</h1>
 <h3 align="center">"Aspiring Python Full Stack Developer | MERN Stack Developer | Java Full Stack | CCBPian at NxtWave | Python, SQL, React JS | Seeking Entry-Level Opportunities | Open to Learning and Growth</h3>
 
