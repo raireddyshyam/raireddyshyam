@@ -1,4 +1,4 @@
-![logo](httpswww.google.comurlsa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcoding%2F&psig=AOvVaw2vE0mw3bPwUwYEbUXLSEjB&ust=1705978251190000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCOCst7L-74MDFQAAAAAdAA.png)
+
 <h1 align="center">Hi 👋, I'm Raireddy Shyam Manohar</h1>
 <h3 align="center">"Aspiring Python Full Stack Developer | MERN Stack Developer | Java Full Stack | CCBPian at NxtWave | Python, SQL, React JS | Seeking Entry-Level Opportunities | Open to Learning and Growth</h3>
 
